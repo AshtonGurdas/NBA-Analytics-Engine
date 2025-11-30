@@ -302,3 +302,25 @@ select:focus {
   color: var(--accent);
   border-color: var(--accent);
 }
+
+
+.team-select-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.team-picker {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex: 1;
+}
+
+.team-logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  border: 1px solid #2c3545;
+}
