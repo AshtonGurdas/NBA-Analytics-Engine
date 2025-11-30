@@ -33,7 +33,7 @@ function App() {
   };
 
   return (
-    <div className="app-root">
+    <div className="container app-root">
       <header className="app-header">
         <div className="app-title">
           <span className="logo-dot" />
